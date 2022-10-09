@@ -1,0 +1,9 @@
+.card{
+   background-color:#f4f3f3;
+   justify-content: space-between;
+ 
+}
+.card-row{
+    display: flex;
+    margin-top: 20px;
+}

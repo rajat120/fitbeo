@@ -1,0 +1,28 @@
+.sidebar-container{
+    width: 15rem;
+    background-color: #00000066;
+    height: 51rem;
+    
+}
+.p{
+    margin-left: 90px;  
+}
+
+.sidebar-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.active{
+    color:#ffff
+}
+.row{
+    display: flex;
+    margin-left: 92px;
+    margin-top: 8px;
+    justify-content: space-between;
+}
+.sideoptions{
+    margin-left: 90px;
+}
+
