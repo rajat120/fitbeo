@@ -33,8 +33,6 @@ const options = {
 };
 
 function Piechart() {
-	useEffect(() => {}, [options]);
-
 	return (
 		<div>
 			<HighchartsReact highcharts={Highcharts} options={options} />

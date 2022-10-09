@@ -38,8 +38,6 @@ const options = {
 };
 
 function Serieschart() {
-	useEffect(() => {}, [options]);
-
 	return (
 		<div>
 			<HighchartsReact highcharts={Highcharts} options={options} />

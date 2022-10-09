@@ -79,8 +79,6 @@ const options = {
 };
 
 function Barchart() {
-	useEffect(() => {}, [options]);
-
 	return (
 		<div>
 			<HighchartsReact highcharts={Highcharts} options={options} />
